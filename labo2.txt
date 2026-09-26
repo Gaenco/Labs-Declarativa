@@ -1,0 +1,25 @@
+- Si la información no es completa para oferentes y demandantes, hay una falla de mercado.
+
+Sujeto: La información 
+Predicado: NO es completa para oferentes
+Predicado2: NO es completa para demandantes
+R= hay una falla de mercado
+
+~p ^ ~q -> r
+
+- He pasado todas mis vacaciones en Grecia y Marruecos.
+
+Sujeto: He (yo)
+Predicado: pasado todas mis vacaciones en Grecia 
+Predicado2: pasado todas mis vacaciones en Marruecos
+
+p ^ q
+
+- La realidad supera a la ficción y él no puede creerlo.
+
+Sujeto: La realidad
+Predicado: supera a la ficción
+
+Sujeto2: él
+Predicado2: NO puede creerlo
+p ^ ~q 
